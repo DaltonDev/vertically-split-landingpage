@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Joow"
+AuthUserFile "/home/gfdfdcww/.htpasswds/public_html/joow/passwd"
+require valid-user
